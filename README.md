@@ -7,7 +7,7 @@
 - You can reach me on:
   - darogachev@gmail.com
   - daniel.p.rogachev.2017@elsys-bg.org 
-  - [Linkedin ![Linkedin](https://i.stack.imgur.com/gVE0j.png)](linkedin.com/in/daniel-rogachev-639586209/)
+  - [Linkedin ![Linkedin](https://i.stack.imgur.com/gVE0j.png)](linkedin.com/in/daniel-rogachev/)
 
 <!---
 DaniRogachev/DaniRogachev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
